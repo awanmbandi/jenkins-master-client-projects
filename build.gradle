@@ -37,9 +37,9 @@ checkstyle {
 sonarqube {
     properties {
         property "sonar.sourceEncoding", "UTF-8"
-                property "sonar.projectName", "Gradle-JavaWebApp-3"
-                property "sonar.host.url", "http://172.31.5.173:9000"
-                property "sonar.login", "ed7f1ae74cf8b693cadbd47043d4b9ed5ef50913"
+                property "sonar.projectName", "Gradle-Java-WebApp"
+                property "sonar.host.url", "http://172.31.63.205:9000"
+                property "sonar.login", "63e28b9489c197d7cf27a88abb596f90d909b477"
     }
 }
 
